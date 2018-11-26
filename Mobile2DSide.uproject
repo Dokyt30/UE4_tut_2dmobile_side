@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A00E8BF5-48C1-A26E-C16C-089EDAF44991}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Mobile2DSide",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
